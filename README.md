@@ -7,4 +7,5 @@
 - **Test cases:** [Click here](https://docs.google.com/spreadsheets/d/1rFeV41n414pqqF4WHT-vvRa_Ig6yrAQU/edit?gid=414538291#gid=414538291)
 
 ## Mind map:
-![img_1.png](img_1.png)
+![image](https://github.com/user-attachments/assets/9cad1677-b253-4f95-a786-ae451290cf7a)
+
