@@ -68,7 +68,8 @@ The manual testing process covered multiple aspects of the Rokomari e-commerce w
   - Steps to reproduce
   - Screenshots and expected vs. actual results
 
-++++++ paste image +++++++++
+![image](https://github.com/user-attachments/assets/3b725f93-e1ef-442f-8f7c-8698683f2558)
+![image](https://github.com/user-attachments/assets/ea1c8d2e-f983-44f6-9568-6a7bc959aec1)
 
 
 ### Tools Used 
