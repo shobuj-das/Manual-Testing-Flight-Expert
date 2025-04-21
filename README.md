@@ -45,9 +45,7 @@ The manual testing process covered multiple aspects of the Rokomari e-commerce w
 - Tracked and analyzed test execution progress, including:
   - Test coverage
   - Defect reporting and resolution rates
-
-![image](https://github.com/user-attachments/assets/60fce293-0fd4-40ac-829b-9ac718c5627e)
-  
+![image](https://github.com/user-attachments/assets/b1edf856-9e98-4457-98d5-f5a9b392d85e)
 
 
 ### Test Scenarios
@@ -56,8 +54,9 @@ The manual testing process covered multiple aspects of the Rokomari e-commerce w
   - Edge cases
   - UI responsiveness
   - Negative test cases
+ 
+![image](https://github.com/user-attachments/assets/6956ec79-ab81-4dc6-8851-a4c30f726016)
 
-![image](https://github.com/user-attachments/assets/2e014603-627b-4951-8e55-da08791128f4)
 
 **Test Scenarios:** [Click Here](https://docs.google.com/spreadsheets/d/1rFeV41n414pqqF4WHT-vvRa_Ig6yrAQU/edit?gid=1411771291#gid=1411771291)
 
@@ -68,7 +67,7 @@ The manual testing process covered multiple aspects of the Rokomari e-commerce w
   - Steps to reproduce
   - Screenshots and expected vs. actual results
 
-11111111111111
+++++++ paste image +++++++++
 
 
 ### Tools Used 
@@ -88,8 +87,9 @@ The manual testing project for the Rokomari e-commerce website successfully vali
 
 
 ### Test Report Summary 
-![image](https://github.com/user-attachments/assets/281a8aea-6bdb-445b-a724-66e8ea3c638e)
 
-![image](https://github.com/user-attachments/assets/bd18bc74-59f7-4e8b-a561-13ba646e7dfe)
+![image](https://github.com/user-attachments/assets/db4b0db7-482f-4ec5-bec3-2631dd2e3486)
+![image](https://github.com/user-attachments/assets/0a0ebde7-5235-41be-810a-2d85b30036bd)
+
 
 
