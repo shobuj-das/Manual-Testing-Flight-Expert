@@ -45,6 +45,7 @@ The manual testing process covered multiple aspects of the Rokomari e-commerce w
 - Tracked and analyzed test execution progress, including:
   - Test coverage
   - Defect reporting and resolution rates
+
 ![image](https://github.com/user-attachments/assets/b1edf856-9e98-4457-98d5-f5a9b392d85e)
 
 
