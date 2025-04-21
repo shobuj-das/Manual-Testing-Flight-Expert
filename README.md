@@ -83,7 +83,7 @@ The manual testing process covered multiple aspects of the Rokomari e-commerce w
 
 
 ### Conclusion 
-The manual testing project for the Rokomari e-commerce website successfully validated its core functionalities, usability, and responsiveness across various modules. The test documentation—including test cases, scenarios, reports, and bug tracking—ensures a smooth, reliable, and user-friendly experience for end users.
+The manual testing project for the Flight Expert website successfully validated its core functionalities, usability, and responsiveness across various modules. The test documentation—including test cases, scenarios, reports, and bug tracking—ensures a smooth, reliable, and user-friendly experience for end users.
 
 
 ### Test Report Summary 
