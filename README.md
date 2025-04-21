@@ -18,8 +18,8 @@ The manual testing process covered multiple aspects of the Rokomari e-commerce w
 ### Test Case Writing
 - Developed comprehensive test cases covering website modules, including navigation, product information, and contact forms.
 
-![image](https://github.com/user-attachments/assets/b34a6e40-6769-4af9-b626-853cfbb06c59)
- 
+![image](https://github.com/user-attachments/assets/8721dccd-927c-4940-8314-a596b862ef67)
+
 **Test Case :** [Click Here](https://docs.google.com/spreadsheets/d/1rFeV41n414pqqF4WHT-vvRa_Ig6yrAQU/edit?gid=414538291#gid=414538291)
 
 ### Test Plan Creation
@@ -38,7 +38,7 @@ The manual testing process covered multiple aspects of the Rokomari e-commerce w
   - Test strategy
   - Feature coverage
 
-
+![image](https://github.com/user-attachments/assets/463e69d3-32fc-4027-9e86-46a607ad73e9)
 
 
 ### Test Metrics
@@ -89,6 +89,7 @@ The manual testing project for the Rokomari e-commerce website successfully vali
 
 ### Test Report Summary 
 ![image](https://github.com/user-attachments/assets/281a8aea-6bdb-445b-a724-66e8ea3c638e)
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/bd18bc74-59f7-4e8b-a561-13ba646e7dfe)
 
 
